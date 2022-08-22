@@ -40,6 +40,8 @@ My research is motivated by a desire to understand the drivers of consumer and p
 
 In my free time, I like to read, travel and hike. I am also the host of a Podcast (Nimde3 Talk) that promotes mentorship and knowledge sharing amongst young African academics and other affiliates. 
 
+Here is a link to my [CV](https://drive.google.com/file/d/1FgZzPyUzUYULRvGZD4CInj_PSQZjxFem/view?usp=sharing)
+
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
