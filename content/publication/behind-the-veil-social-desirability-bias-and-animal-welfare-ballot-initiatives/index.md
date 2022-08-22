@@ -3,6 +3,10 @@ title: "Behind the veil: Social desirability bias and animal welfare ballot
   initiatives"
 publication_types:
   - "2"
+authors:
+  - Yufeng Lai
+  - Albert Boaitey
+  - Kota Minegishi
 doi: https://doi.org/10.1016/j.foodpol.2021.102184
 abstract: Farm animal welfare (FAW) issues are becoming increasingly political
   in many countries, as evidenced by the increased use of regulations,
